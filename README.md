@@ -1,5 +1,5 @@
 # Degrees Converter
-Switch between Fahrenhighet and Celsius with ease. Simple Lua Learning project
+Switch between Fahrenheit and Celsius with ease. Simple Lua Learning project
 
 Requires Lua to run
 
